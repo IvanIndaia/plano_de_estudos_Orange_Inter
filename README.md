@@ -24,4 +24,4 @@ Criando plano de estudo para FrontEnd com Github
 - [ ] Programação para Internet com HTML5 e CSS3 [6] (26/11/2022)
 - [ ] Construindo Página para Internet com Bootstrap [4h] (30/11/2022)
 
-<!-- Olá aqui está um comentário -->
+<!-- Olá aqui é um comentário -->
